@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NLP and speach recognition**
 
-- 💬 Ask me about **Python , ML**
+- 💬 Most confident in **Python , ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
