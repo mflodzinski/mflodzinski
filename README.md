@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/maciejłodziński/">
+  <a href="https://www.linkedin.com/in/maciej-%C5%82odzi%C5%84ski-34272823b/">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' height=50 width=50>
   </a>
   <a href="mailto:mf.lodzinski@gmail.com">
