@@ -3,7 +3,7 @@
 
 - 👨‍💻 I'm studying at **Warsaw University of Technology**
 
-- 🌱 I’m currently learning **NLP and speach recognition**
+- 🌱 I’m currently learning **NLP and Digital Signal Processing**
 
 - 💬 I'm most confident in **Python , ML**
 
