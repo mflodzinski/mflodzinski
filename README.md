@@ -1,4 +1,4 @@
-Studying MSc Data Science & AI @ TU Delft.  
+Graduated MSc Data Science & AI @ TU Delft.  
 Interested in Generative Modeling, Neural Network Architecture Design, and understanding the algorithms underlying AI.  
 Previously worked as an AI Engineer/Researcher at Epoch and Data Engineer at Cloudfide.  
 
